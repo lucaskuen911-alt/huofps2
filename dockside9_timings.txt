@@ -1,0 +1,47 @@
+
+[West Shut] 50127 nodes, built in 546 ms
+  Attacker Spawn -> A Site           13.8 s
+  Attacker Spawn -> B Site           14.1 s
+  Attacker Spawn -> Mid Top          12.4 s
+  Defender Spawn -> A Site           7.1 s
+  Defender Spawn -> B Site           6.7 s
+  Defender Spawn -> Crane Yard       7 s
+  A Site -> B Site                   13.6 s
+  Attacker Spawn -> A Main           10.8 s
+  A Main -> A Site                   6.6 s
+  Attacker Spawn -> B Main           9.6 s
+  Attacker Spawn -> Nest             19.5 s
+  Defender Spawn -> Deck             14.8 s
+  B Site -> Deck                     8.1 s
+
+[Zig-Zag] 50122 nodes, built in 574 ms
+  Attacker Spawn -> A Site           14.3 s
+  Attacker Spawn -> B Site           14.1 s
+  Attacker Spawn -> Mid Top          12.4 s
+  Defender Spawn -> A Site           7.1 s
+  Defender Spawn -> B Site           6.7 s
+  Defender Spawn -> Crane Yard       7 s
+  A Site -> B Site                   13.6 s
+  Attacker Spawn -> A Main           10.8 s
+  A Main -> A Site                   6.6 s
+  Attacker Spawn -> B Main           9.6 s
+  Attacker Spawn -> Nest             20 s
+  Defender Spawn -> Deck             14.8 s
+  B Site -> Deck                     8.1 s
+
+[Open Middle] 50128 nodes, built in 421 ms
+  Attacker Spawn -> A Site           14.3 s
+  Attacker Spawn -> B Site           14.1 s
+  Attacker Spawn -> Mid Top          12.4 s
+  Defender Spawn -> A Site           7.1 s
+  Defender Spawn -> B Site           6.7 s
+  Defender Spawn -> Crane Yard       7 s
+  A Site -> B Site                   13.6 s
+  Attacker Spawn -> A Main           10.8 s
+  A Main -> A Site                   6.6 s
+  Attacker Spawn -> B Main           9.6 s
+  Attacker Spawn -> Nest             20 s
+  Defender Spawn -> Deck             14.8 s
+  B Site -> Deck                     8.1 s
+
+wrote shots/map.json
